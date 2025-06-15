@@ -1,73 +1,35 @@
-# Welcome to your Lovable project
+# ShipFast — Javascript
 
-## Project info
+Hey maker 👋 it's Marc from [ShipFast](https://shipfa.st/docs). Let's get your startup off the ground, FAST ⚡️
 
-**URL**: https://lovable.dev/projects/eb34480f-4f3e-4b8f-9bbe-c55854ad9204
+<sub>**Watch/Star the repo to be notified when updates are pushed**</sub>
 
-## How can I edit this code?
+## Get Started
 
-There are several ways of editing your application.
+1. Follow the [Get Started Tutorial](https://shipfa.st/docs) to clone the repo and run your local server 💻
 
-**Use Lovable**
+<sub>**Looking for the /pages router version?** Use this [documentation](https://shipfa.st/docs-old) instead</sub>
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/eb34480f-4f3e-4b8f-9bbe-c55854ad9204) and start prompting.
+2. Follow the [Ship In 5 Minutes Tutorial](https://shipfa.st/docs/tutorials/ship-in-5-minutes) to learn the foundation and ship your app quickly ⚡️
 
-Changes made via Lovable will be committed automatically to this repo.
+## Links
 
-**Use your preferred IDE**
+-   [📚 Documentation](https://shipfa.st/docs)
+-   [📣 Updates](https://shipfast.beehiiv.com/)
+-   [🧑‍💻 Discord](https://shipfa.st/dashboard)
+-   [🥇 Leaderboard](https://shipfa.st/leaderboard)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Support
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Reach out to me on [Twitter](https://twitter.com/marc_louvion) or marc@shipfa.st
 
-Follow these steps:
+\_
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Let's ship it, FAST ⚡️
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+P.S.
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/eb34480f-4f3e-4b8f-9bbe-c55854ad9204) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+-   Want to showcase your startups? Get your [Indie Page](https://indiepa.ge?ref=shipfast_readme) and share your entrepreneur's journey. Join 3,132 founders ⭐️
+-   Don't get banned from Stripe for 1 dispute. Use [ByeDispute](https://byedispute.com/?ref=shipfast_readme) to prevent them from happenening 🛡️
+-   Make your launch go viral and get your first customers with [LaunchViral](https://launchvir.al/?ref=shipfast_readme) 🚀
+-   Stop paying 0.4% per Stripe invoices [Zenvoice](https://zenvoice.io/?ref=shipfast_readme) 🤕
